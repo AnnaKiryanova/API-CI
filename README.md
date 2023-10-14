@@ -157,6 +157,8 @@ AppVeyor предоставляет бесплатный тарифный пла
 
 **Важно: убедитесь, что вы не скопировали бейджик с другого проекта. За такую хитрость ДЗ будет отправляться на доработку.**
 
+[![Build status](https://ci.appveyor.com/api/projects/status/o5anhxvxxv41rh96?svg=true)](https://ci.appveyor.com/project/AnnaKiryanova/api-ci)
+
 ## Задача №2: JSON Schema
 
 JSON Schema предлагает нам инструмент валидации JSON-документов. С описанием вы можете познакомиться по [адресу](https://json-schema.org/understanding-json-schema/index.html).
